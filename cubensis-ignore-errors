@@ -1,0 +1,16 @@
+{
+  "beforeSendBackground": ["Failed to fetch"],
+  "beforeSendPopup": ["Failed to fetch"],
+  "contentScriptApprove": [
+    "Accounts balance errors",
+    "Alias already claimed",
+    "Attempt to transfer unavailable funds",
+    "Cannot lease more than own",
+    "Error while executing (account|token)-script",
+    "failed to parse json message",
+    "Lease with id=.* not found",
+    "non-positive amount",
+    "Transaction is not allowed by (account|token)-script",
+    "Transaction sent from smart account. Requires \\d+ extra fee"
+  ]
+}
